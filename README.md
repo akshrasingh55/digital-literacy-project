@@ -26,7 +26,6 @@ task-2-portfolio/
 task-3-platforms/
 task-4-email-etiquette/
 task-5-cybercrime/
-report/
 README.md
 ```
 
